@@ -85,7 +85,7 @@ function spinText($text) {
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="">
 <meta name="google-site-verification" content="Iak23Wlk8qcVfTdvBQpx5HYUkaNH-9Qt3Pvf2msnYnA" />
-<link rel="amphtml" href="https://distro-anime.xyz/amp/wonogirikab.html">
+<link rel="amphtml" href="https://amp-puncak.win/">
 <link rel="canonical" href="<?php echo $urlPath ?>">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin></link>
 <title> <?php echo $BRANDS ?> : Daftar Rekomendasi Link Slot Gacor Malam Ini Auto Jackpot Maxwin</title>
